@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://www.instagram.com/leeu_2u/" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=flate&logo=appveyor&logo=#E4405F&logoColor=ffffff"/></a>
+
 <!--
 **leeu2u/leeu2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
